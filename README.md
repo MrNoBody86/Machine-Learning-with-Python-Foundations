@@ -48,4 +48,4 @@ We welcome feedback and contributions! If you find issues or have suggestions fo
 
 ## Author
 
-Frederick Nwanganga 
+Frederick Nwanganga
