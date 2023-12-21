@@ -48,5 +48,4 @@ We welcome feedback and contributions! If you find issues or have suggestions fo
 
 ## Author
 
-Frederick Nwanganga - [GitHub](https://github.com/fredericknwanganga)
-
+Frederick Nwanganga 
