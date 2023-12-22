@@ -11,7 +11,6 @@ Welcome to the hub for code, projects, and insights from the "Machine Learning w
 3. [Understanding Different Learning Approaches](#understanding-different-learning-approaches)
 4. [Python Basics for Machine Learning](#python-basics-for-machine-learning)
 5. [Building and Evaluating Machine Learning Models](#building-and-evaluating-machine-learning-models)
-6. [Course Completion Project](#course-completion-project)
 
 ## Introduction to Machine Learning
 
@@ -32,10 +31,6 @@ Get hands-on experience with Python, the most in-demand language for machine lea
 ## Building and Evaluating Machine Learning Models
 
 Bring it all together by building, evaluating, and interpreting the results of a machine learning model in Python.
-
-## Course Completion Project
-
-Apply your knowledge and skills to a real-world project to reinforce what you've learned throughout the course.
 
 ## Prerequisites
 
